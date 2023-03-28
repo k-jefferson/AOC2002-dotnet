@@ -1,0 +1,12 @@
+/Users/kmpro/source/github/AOC2002.Program/AocModel/bin/Debug/net7.0/AocModel.deps.json
+/Users/kmpro/source/github/AOC2002.Program/AocModel/bin/Debug/net7.0/AocModel.dll
+/Users/kmpro/source/github/AOC2002.Program/AocModel/bin/Debug/net7.0/AocModel.pdb
+/Users/kmpro/source/github/AOC2002.Program/AocModel/obj/Debug/net7.0/AocModel.csproj.AssemblyReference.cache
+/Users/kmpro/source/github/AOC2002.Program/AocModel/obj/Debug/net7.0/AocModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kmpro/source/github/AOC2002.Program/AocModel/obj/Debug/net7.0/AocModel.AssemblyInfoInputs.cache
+/Users/kmpro/source/github/AOC2002.Program/AocModel/obj/Debug/net7.0/AocModel.AssemblyInfo.cs
+/Users/kmpro/source/github/AOC2002.Program/AocModel/obj/Debug/net7.0/AocModel.csproj.CoreCompileInputs.cache
+/Users/kmpro/source/github/AOC2002.Program/AocModel/obj/Debug/net7.0/AocModel.dll
+/Users/kmpro/source/github/AOC2002.Program/AocModel/obj/Debug/net7.0/refint/AocModel.dll
+/Users/kmpro/source/github/AOC2002.Program/AocModel/obj/Debug/net7.0/AocModel.pdb
+/Users/kmpro/source/github/AOC2002.Program/AocModel/obj/Debug/net7.0/ref/AocModel.dll
